@@ -11,7 +11,7 @@ public class Main {
     }
     public static class B extends A{
         public String meth(){
-            return "Method is overriding in extended class";
+            return "Method is overriding in Extended class B";
         }
     }
 
